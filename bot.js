@@ -38,4 +38,4 @@ bot.on('message', function (user, userID, channelID, message, evt) {
      }
 });
 
-client.login(process.env.Mzg0MDcwMjg0NjE5MDIyMzQ5.DPtovQ.p-tFepmekIKrE2IIzfkdJl38Oho);
+client.login(process.env.Mzg0MDcwMjg0NjE5MDIyMzQ5.DPtxFg.GOPgQqUIZXWk5wP0QIDCiV49u84);
