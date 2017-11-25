@@ -1,0 +1,2 @@
+# LRemnant
+bot for discord
